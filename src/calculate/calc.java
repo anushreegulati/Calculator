@@ -20,6 +20,9 @@ public class calc {
 		case 2:
 			ans = num1-num2;
 			break;
+		case 3:
+			ans=num1*num2;
+			break;
 		}	
 		System.out.println("Answer is: "+ans);
 	}
